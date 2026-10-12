@@ -73,21 +73,6 @@ I'm a **Data Science graduate (2026)** who builds AI/ML systems end-to-end — f
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-
-  <!-- GitHub Streak (Clickable) -->
-  <a href="https://github.com/Dt-MahrozAbbas">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dt-MahrozAbbas&theme=transparent&hide_border=true&title_color=1F4E79&text_color=333333&icon_color=1F4E79&background=ffffff00&stroke=1F4E79&ring=1F4E79&fire=1F4E79&currStreakLabel=1F4E79" alt="GitHub Streak" />
-  </a>
-</div>
-
-
----
-
-<div align="center">
 
 **Let's connect** — always open to conversations about RAG systems, agentic pipelines, and self-hosted AI infrastructure.
 
